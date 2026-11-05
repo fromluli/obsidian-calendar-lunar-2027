@@ -1,0 +1,11 @@
+{
+  "id": "calendar-lunar",
+  "name": "Calendar Lunar",
+  "description": "Calendar view of your daily notes",
+  "version": "1.6.0",
+  "author": "nairo",
+  "authorUrl": "https://github.com/nairo/",
+  "fundingUrl": "",
+  "isDesktopOnly": false,
+  "minAppVersion": "0.9.11"
+}
